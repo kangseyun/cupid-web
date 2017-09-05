@@ -54,3 +54,7 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
+
+
+public/bundle.js
+package-lock.json
